@@ -1,45 +1,45 @@
 {
     "ja": {
         "romantic_label": {
-            "one": "romantic like:",
-            "many": "romantic love:"
+            "one": "ロマンティックな好意：",
+            "many": "ロマンティックな愛情："
         },
         "platonic_label": {
-            "one": "platonic like:",
-            "many": "platonic love:"
+            "one": "プラトニックな好意：",
+            "many": "プラトニックな愛情："
         },
         "dislike_label": {
-            "one": "dislike:",
-            "many": "hate:"
+            "one": "好きじゃない：",
+            "many": "嫌い："
         },
         "admire_label": {
-            "one": "respect:",
-            "many": "admiration:"
+            "one": "尊重：",
+            "many": "尊敬："
         },
         "comfortable_label": {
-            "one": "comfortable:",
-            "many": "security:"
+            "one": "リラックス：",
+            "many": "安全："
         },
         "jealous_label": {
-            "one": "jealousy:",
-            "many": "resentment:"
+            "one": "嫉妬：",
+            "many": "憎悪："
         },
         "trust_label": {
-            "one": "trust:",
-            "many": "reliance:"
+            "one": "信用:",
+            "many": "信頼："
         },
-        "positive_postscript": " (positive effect)",
-        "positive_postscript_low": " (low positive effect)",
-        "positive_postscript_medium": " (medium positive effect)",
-        "positive_postscript_high": " (high positive effect)",
-        "negative_postscript": " (negative effect)",
-        "negative_postscript_low": " (low negative effect)",
-        "negative_postscript_medium": " (medium negative effect)",
-        "negative_postscript_high": " (high negative effect)",
-        "neutral_postscript": " (neutral effect)",
+        "positive_postscript": "（ポジティブな効果）",
+        "positive_postscript_low": "（少しのポジティブな効果）",
+        "positive_postscript_medium": "（中程度のポジティブな効果）",
+        "positive_postscript_high": "（高いポジティブな効果）",
+        "negative_postscript": "（ネガティブな効果）",
+        "negative_postscript_low": "（少しのネガティブな効果）",
+        "negative_postscript_medium": "（中程度のネガティブな効果）",
+        "negative_postscript_high": "（高いネガティブな効果）",
+        "neutral_postscript": "（中立的な効果）",
         "age_postscript": {
-            "one": "- %{name} was %{count} moon old",
-            "many": "- %{name} was %{count} moons old"
+            "one": "- %{name}は%{count}ヵ月です",
+            "many": "- %{name}は%{count}ヵ月です"
         }
     }
 }

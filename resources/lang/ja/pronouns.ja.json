@@ -1,29 +1,29 @@
 {
     "ja": {
         "0": {
-            "subject": "they",
-            "object": "them",
-            "poss": "their",
-            "inposs": "theirs",
-            "self": "themself",
+            "subject": "彼ら",
+            "object": "彼ら",
+            "poss": "彼ら",
+            "inposs": "彼ら",
+            "self": "彼ら",
             "conju": 1,
             "gender": 0
         },
         "1": {
-            "subject": "he",
-            "object": "him",
-            "poss": "his",
-            "inposs": "his",
-            "self": "himself",
+            "subject": "彼",
+            "object": "彼",
+            "poss": "彼",
+            "inposs": "彼",
+            "self": "彼",
             "conju": 2,
             "gender": 1
         },
         "2": {
-            "subject": "she",
-            "object": "her",
-            "poss": "her",
-            "inposs": "hers",
-            "self": "herself",
+            "subject": "彼女",
+            "object": "彼女",
+            "poss": "彼女",
+            "inposs": "彼女",
+            "self": "彼女",
             "conju": 2,
             "gender": 2
         }

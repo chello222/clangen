@@ -1,10 +1,10 @@
 {
     "ja": {
-        "content_warning": "Warning: This game contains mild depictions of gore, canon-typical violence and animal abuse.",
-        "tooltip_twitter": "Check out our Twitter!",
-        "tooltip_tumblr": "Check out our Tumblr!",
-        "tooltip_discord": "Join our Discord!",
-        "error_text": "There was an error loading the game: %{error}%{traceback}",
-        "error_gethelp": "Please join the Discord server and ask for technical support. We'll be happy to help! Please include the error message and the traceback below (if available).<br><a href=\"https:\/\/discord.gg\/clangen\">Discord<\/a>"
+        "content_warning": "警告：このゲームには、軽度の残虐な描写、原作で見られるような暴力描写、動物を虐待するような描写が含まれています。",
+        "tooltip_twitter": "Twitterをチェック！",
+        "tooltip_tumblr": "Tumblrをチェック！",
+        "tooltip_discord": "Discordに参加！",
+        "error_text": "ゲームの読み込み中にエラーが発生しました：%{error}%{traceback}",
+        "error_gethelp": "Discordサーバーに参加して、技術サポートを依頼してください。喜んでお手伝いいたします。エラーメッセージとトレースバック（ある場合）を下記に含めてください。<br><a href=\"https:\/\/discord.gg\/clangen\">Discord<\/a>"
     }
 }

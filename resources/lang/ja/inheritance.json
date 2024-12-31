@@ -1,15 +1,15 @@
 {
     "ja": {
-        "current_mate": "current mate",
-        "prev_mate": "previous mate",
-        "parent_of_inter": "parent of %{name}",
-        "second_parent": "second parent: %{name}",
+        "current_mate": "現在の連れ合い",
+        "prev_mate": "過去の連れ合い",
+        "parent_of_inter": "%{name}の親",
+        "second_parent": "もう一人の親：%{name}",
         "blood_parent": {
-            "one": "blood parent: %{name}",
-            "many": "blood parents: %{name}"
+            "one": "実親：%{name}",
+            "many": "実親：%{name}"
         },
-        "mate_of_inter": "mate of %{name}",
-        "littermates": "litter mates",
-        "child_of_inter": "child of %{name}"
+        "mate_of_inter": "%{name}の連れ合い",
+        "littermates": "兄弟の連れ合い",
+        "child_of_inter": "%{name}の子供"
     }
 }

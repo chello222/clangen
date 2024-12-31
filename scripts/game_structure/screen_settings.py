@@ -196,6 +196,26 @@ def set_display_mode(
                     "point_size": floor(18 * screen_scale),
                     "style": "regular",
                 },
+                {
+                    "name": "yugoth",
+                    "point_size": floor(11 * screen_scale),
+                    "style": "regular",
+                },
+                {
+                    "name": "yugoth",
+                    "point_size": floor(13 * screen_scale),
+                    "style": "regular",
+                },
+                {
+                    "name": "italic",
+                    "point_size": floor(15 * screen_scale),
+                    "style": "regular",
+                },
+                {
+                    "name": "yugoth",
+                    "point_size": floor(17 * screen_scale),
+                    "style": "bold",
+                },
             ]
         )
 
